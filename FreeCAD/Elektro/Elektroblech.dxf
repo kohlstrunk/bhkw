@@ -227,19 +227,19 @@ TABLE
   2
 LAYER
   5
-A25
+A27
 330
 0
 100
 AcDbSymbolTable
  70
-3
+2
   0
 LAYER
   5
-A26
+A28
 330
-A25
+A27
 100
 AcDbSymbolTableRecord
 100
@@ -255,33 +255,15 @@ CONTINUOUS
   0
 LAYER
   5
+A29
+330
 A27
-330
-A25
 100
 AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-none
- 70
-    0
- 62
-    7
-  6
-CONTINUOUS
-  0
-LAYER
-  5
-A28
-330
-A25
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Unfold_Sketch
+View
  70
     0
  62
@@ -699,7 +681,7 @@ SECTION
   2
 ENTITIES
   0
-LINE
+CIRCLE
   5
 A08
 330
@@ -707,23 +689,17 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbLine
+AcDbCircle
  10
--6
+137.483
  20
-236.586
- 30
-0
- 11
--51
- 21
-236.59
- 31
-0
+40.9663
+ 40
+3
   0
-ARC
+LINE
   5
 A09
 330
@@ -731,23 +707,21 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbCircle
+AcDbLine
  10
--6
+73.4831
  20
-230.586
+214.966
  30
 0
- 40
-6
-100
-AcDbArc
- 50
+ 11
+73.4831
+ 21
+118.966
+ 31
 0
- 51
-90
   0
 LINE
   5
@@ -757,19 +731,19 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbLine
  10
-5.64774e-14
+73.4831
  20
-230.586
+118.966
  30
 0
  11
-7.44921e-15
+73.4831
  21
-30.4137
+63.9663
  31
 0
   0
@@ -781,19 +755,19 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbLine
  10
-7.44921e-15
+73.4831
  20
-30.4137
+63.9663
  30
 0
  11
--60
+133.483
  21
-1.41372
+34.9663
  31
 0
   0
@@ -805,19 +779,19 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbLine
  10
--60
+133.483
  20
-1.41372
+34.9663
  30
 0
  11
--70
+143.483
  21
-1.41372
+34.9663
  31
 0
   0
@@ -829,19 +803,19 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbLine
  10
--70
+143.483
  20
-1.41372
+34.9663
  30
 0
  11
--130
+203.483
  21
-30.4137
+63.9663
  31
 0
   0
@@ -853,23 +827,23 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbLine
  10
--130
+203.483
  20
-30.4137
+63.9663
  30
 0
  11
--130
+203.483
  21
-229.207
+118.966
  31
 0
   0
-ARC
+LINE
   5
 A0F
 330
@@ -877,23 +851,21 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbCircle
+AcDbLine
  10
--124
+203.483
  20
-229.207
+214.966
  30
 0
- 40
-6
-100
-AcDbArc
- 50
-78.2317
- 51
-180
+ 11
+203.483
+ 21
+118.966
+ 31
+0
   0
 LINE
   5
@@ -903,23 +875,23 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbLine
  10
--122.776
+203.483
  20
-235.081
+214.966
  30
 0
  11
--82
+203.483
  21
-226.586
+265.587
  31
 0
   0
-LINE
+ARC
   5
 A11
 330
@@ -927,23 +899,25 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbLine
+AcDbCircle
  10
--51
+197.483
  20
-236.586
+265.587
  30
 0
- 11
--82
- 21
-226.586
- 31
+ 40
+6
+100
+AcDbArc
+ 50
 0
+ 51
+101.768
   0
-CIRCLE
+LINE
   5
 A12
 330
@@ -951,17 +925,23 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbCircle
+AcDbLine
  10
--28
+196.259
  20
-206.586
- 40
-10
+271.461
+ 30
+0
+ 11
+155.483
+ 21
+262.966
+ 31
+0
   0
-CIRCLE
+LINE
   5
 A13
 330
@@ -969,17 +949,23 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbCircle
+AcDbLine
  10
--64
+124.483
  20
-25.4137
- 40
-3
+272.966
+ 30
+0
+ 11
+155.483
+ 21
+262.966
+ 31
+0
   0
-CIRCLE
+LINE
   5
 A14
 330
@@ -987,17 +973,23 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbCircle
+AcDbLine
  10
--30
+79.4831
  20
-150
- 40
-3
+272.966
+ 30
+0
+ 11
+124.483
+ 21
+272.966
+ 31
+0
   0
-CIRCLE
+ARC
   5
 A15
 330
@@ -1005,17 +997,25 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--100
+79.4831
  20
-150
+266.966
+ 30
+0
  40
-3
+6
+100
+AcDbArc
+ 50
+90
+ 51
+180
   0
-CIRCLE
+LINE
   5
 A16
 330
@@ -1023,15 +1023,21 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbCircle
+AcDbLine
  10
--10
+73.4831
  20
-228.586
- 40
-3
+214.966
+ 30
+0
+ 11
+73.4831
+ 21
+266.966
+ 31
+0
   0
 CIRCLE
   5
@@ -1041,13 +1047,13 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--123.5
+137.483
  20
-228.586
+58.9663
  40
 3
   0
@@ -1059,13 +1065,13 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--64
+103.483
  20
-7.41372
+184.966
  40
 3
   0
@@ -1077,15 +1083,15 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--54
+173.483
  20
-97
+184.966
  40
-2
+3
   0
 CIRCLE
   5
@@ -1095,13 +1101,13 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--54
+127.483
  20
-167
+201.966
  40
 2
   0
@@ -1113,13 +1119,13 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--126
+199.483
  20
-97
+201.966
  40
 2
   0
@@ -1131,15 +1137,15 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--126
+101.483
  20
-167
+242.966
  40
-2
+10
   0
 CIRCLE
   5
@@ -1149,15 +1155,15 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--20.08
+83.4831
  20
-103.38
+264.966
  40
-1.5
+3
   0
 CIRCLE
   5
@@ -1167,15 +1173,15 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--20.08
+196.983
  20
-114.82
+264.966
  40
-1.5
+3
   0
 CIRCLE
   5
@@ -1185,13 +1191,13 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--20.08
+93.5631
  20
-126.26
+195.546
  40
 1.5
   0
@@ -1203,13 +1209,13 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--20.08
+93.5631
  20
-137.7
+184.106
  40
 1.5
   0
@@ -1221,13 +1227,13 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--20.08
+93.5631
  20
-149.14
+172.666
  40
 1.5
   0
@@ -1239,17 +1245,17 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
 AcDbCircle
  10
--20.08
+93.5631
  20
-160.58
+161.226
  40
 1.5
   0
-LINE
+CIRCLE
   5
 A23
 330
@@ -1257,23 +1263,17 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbLine
+AcDbCircle
  10
-2.02659e-14
+93.5631
  20
-82.74
- 30
-0
- 11
--130
- 21
-82.7434
- 31
-0
+149.786
+ 40
+1.5
   0
-LINE
+CIRCLE
   5
 A24
 330
@@ -1281,21 +1281,51 @@ A02
 100
 AcDbEntity
   8
-Unfold_Sketch
+View
 100
-AcDbLine
+AcDbCircle
  10
--130
+93.5631
  20
-181.257
- 30
-0
- 11
-5.06197e-14
- 21
-181.26
- 31
-0
+138.346
+ 40
+1.5
+  0
+CIRCLE
+  5
+A25
+330
+A02
+100
+AcDbEntity
+  8
+View
+100
+AcDbCircle
+ 10
+127.483
+ 20
+131.966
+ 40
+2
+  0
+CIRCLE
+  5
+A26
+330
+A02
+100
+AcDbEntity
+  8
+View
+100
+AcDbCircle
+ 10
+199.483
+ 20
+131.966
+ 40
+2
   0
 ENDSEC
   0
