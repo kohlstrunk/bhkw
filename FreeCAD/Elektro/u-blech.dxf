@@ -227,7 +227,7 @@ TABLE
   2
 LAYER
   5
-A25
+A29
 330
 0
 100
@@ -237,9 +237,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A26
+A2A
 330
-A25
+A29
 100
 AcDbSymbolTableRecord
 100
@@ -255,9 +255,9 @@ CONTINUOUS
   0
 LAYER
   5
-A27
+A2B
 330
-A25
+A29
 100
 AcDbSymbolTableRecord
 100
@@ -273,9 +273,9 @@ CONTINUOUS
   0
 LAYER
   5
-A28
+A2C
 330
-A25
+A29
 100
 AcDbSymbolTableRecord
 100
@@ -1249,9 +1249,81 @@ AcDbCircle
  40
 1.25
   0
-LINE
+CIRCLE
   5
 A23
+330
+A02
+100
+AcDbEntity
+  8
+Unfold_Sketch
+100
+AcDbCircle
+ 10
+-64
+ 20
+49.4137
+ 40
+1.25
+  0
+CIRCLE
+  5
+A24
+330
+A02
+100
+AcDbEntity
+  8
+Unfold_Sketch
+100
+AcDbCircle
+ 10
+-64
+ 20
+59.4137
+ 40
+1.25
+  0
+CIRCLE
+  5
+A25
+330
+A02
+100
+AcDbEntity
+  8
+Unfold_Sketch
+100
+AcDbCircle
+ 10
+-84
+ 20
+49.4137
+ 40
+1.25
+  0
+CIRCLE
+  5
+A26
+330
+A02
+100
+AcDbEntity
+  8
+Unfold_Sketch
+100
+AcDbCircle
+ 10
+-84
+ 20
+59.4137
+ 40
+1.25
+  0
+LINE
+  5
+A27
 330
 A02
 100
@@ -1275,7 +1347,7 @@ AcDbLine
   0
 LINE
   5
-A24
+A28
 330
 A02
 100
